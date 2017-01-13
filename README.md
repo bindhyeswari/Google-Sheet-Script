@@ -9,7 +9,7 @@ Sample scripts to set up custom menus and html pages and communicate between tho
  - Create files `Code.gs` and `Page.html`
  - Copy code from the corresponding files in the repo
  - In the script editor, click on `Run > onOpen`
- - Go to the google sheet and you should be able to see the custom menu
+ - Go to the google sheet and click on the custom menu
 
 ## Reference
  - For creating custom HTML Sidebar menus: https://developers.google.com/apps-script/guides/html/
